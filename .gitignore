@@ -9,3 +9,4 @@ venv*
 *.orc/
 spark-warehouse/
 metastore_db/
+derby.log

@@ -12,3 +12,4 @@ metastore_db/
 derby.log
 
 Files/
+checkpoint*

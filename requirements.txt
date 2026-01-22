@@ -1,5 +1,5 @@
-pyspark[sql]
-pyspark[pandas_on_spark]
+pyspark[sql]==4.0.1
+pyspark[pandas_on_spark]==4.0.1
 plotly
 pyarrow
 jupyterlab
